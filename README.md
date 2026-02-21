@@ -10,7 +10,7 @@ How can we build a predictive model that generalizes well without overfitting?
 
 ## 📂 Dataset
 - Source: UCI Machine Learning Repository
-- Size: 19k+ records
+- Size: 19k+ records and 34 features including 1 dependent feature and 6 engineered features 
 - Key features: Features for Temperature and Humidity values for various rooms within the house, Hour, Energy consumption of lights 
 
 ## 🔍 Approach
