@@ -31,7 +31,7 @@ appliances were found to have the highest impact on energy consumption.
 - Feature engineering the variable of ‘date’ proved to be valuable for the accuracy of the final model.
 
 ## 🛠 Tech Used
-Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly
+Python, NumPy, Pandas, Matplotlib, Seaborn, Plotly, sci-kit learn
 
 ## 🚀 Business Impact
 This analysis can support:
