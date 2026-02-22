@@ -36,6 +36,7 @@ Key parameters tuned included:
 - min_samples_split
 
 📊 Model Evaluation
+
 Models were evaluated using:
 - R2-score, RMSE, MAE
 - Achieved 75% accuracy with the Random Forest Regressor model with hyper-parameter tuning
