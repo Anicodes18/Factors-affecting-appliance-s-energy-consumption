@@ -20,7 +20,23 @@ How can we build a predictive model that generalizes well without overfitting?
 - Machine Learning Modeling
 
 ## 🤖 Model
-- Linear Regression and Random Forest Regressor
+- Linear Regression
+- Random Forest Regressor
+
+To improve performance and generalization, hyperparameter tuning was performed using cross-validation.
+
+🔧 Hyperparameter Tuning
+- Grid Search CV
+- Cross-validation to prevent overfitting
+- Optimization based on R2-score
+
+Key parameters tuned included:
+- n_estimators
+- max_depth
+- min_samples_split
+
+📊 Model Evaluation
+Models were evaluated using:
 - R2-score, RMSE, MAE
 - Achieved 75% accuracy with the Random Forest Regressor model with hyper-parameter tuning
 
